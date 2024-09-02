@@ -1,1 +1,2 @@
 # Brick-Breaker
+Developed a classic Brick Breaker game using Java and Eclipse. The game features a topdown view with bricks at the top, a sliding paddle at the bottom, and a ball that bounces around to break the bricks. The objective is to eliminate all bricks without allowing the ball to fall below the paddle, which results in losing the game. The project includes both a graphical (GUI) version and a console-based version. 
